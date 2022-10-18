@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Insanedude20
 - 👀 I’m interested in doing internships
-- 🌱 I’m currently learning front end development
-- 💞️ I’m looking to collaborate on any basis
+- 🌱 I’m currently learning full stack web development
+- 💞️ I’m looking to collaborate on any front end development
 - 📫 How to reach me mail : mdsameeruddin76@gmail.com or number :8341312352
 
 <!---
